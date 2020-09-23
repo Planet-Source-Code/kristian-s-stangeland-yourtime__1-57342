@@ -1,0 +1,290 @@
+Type mismatch 
+  Time='08/29/04 19:41:44' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsScript.GetMoonPhase 
+  Number: 13 = &HD = vbObjectError + 2147221517 = ERRMAP_APP_FIRST + 2147216319 
+  Source: YourTime 
+  Description: Type mismatch
+  Call Stack: clsScript.GetMoonPhase(lDate='8/1/2004') ---------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:45' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:46' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:47' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:48' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:49' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:50' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:51' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:52' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:53' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:54' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Type mismatch 
+  Time='08/29/04 19:41:55' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsScript.GetMoonPhase 
+  Number: 13 = &HD = vbObjectError + 2147221517 = ERRMAP_APP_FIRST + 2147216319 
+  Source: YourTime 
+  Description: Type mismatch
+  Call Stack: clsScript.GetMoonPhase(lDate='5/12/2004') --------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:56' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:57' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:58' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:41:59' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:42:00' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:42:01' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:42:02' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:42:03' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:42:04' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:42:05' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:42:06' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+Division by zero 
+  Time='08/29/04 19:42:07' App='YourTime:1.2.36' Computer='KRIS' 
+  Method: clsSunTime.Calculate 
+  Number: 11 = &HB = vbObjectError + 2147221515 = ERRMAP_APP_FIRST + 2147216317 
+  Source: YourTime 
+  Description: Division by zero
+  Call Stack: clsSunTime.Calculate() ---------------------------------------------------------------
+
+
+
+ 
+  Time='08.31.04 16:05:41' App='YourTime:1.2.44' Computer='KRIS' 
+  Method: clsScript.InvokeError 
+  Number: 500 = &H1F4 = vbObjectError + 2147222004 = ERRMAP_APP_FIRST + 2147216806 
+  Source:  
+  Description: 
+  Call Stack: clsScript.InvokeError(ErrNum=500,  Description='') -----------------------------------
+
+
+
+Subscript out of range 
+  Time='01.24.04 16:59:20' App='YourTime:1.2.50' Computer='KRIS' 
+  Method: frmMain.UpdateAll 
+  Number: 9 = &H9 = vbObjectError + 2147221513 = ERRMAP_APP_FIRST + 2147216315 
+  Source: YourTime 
+  Description: Subscript out of range
+  Call Stack: frmMain.UpdateAll() ------------------------------------------------------------------
+
+
+
+Subscript out of range 
+  Time='01.24.04 17:01:07' App='YourTime:1.2.51' Computer='KRIS' 
+  Method: frmMain.UpdateAll 
+  Number: 9 = &H9 = vbObjectError + 2147221513 = ERRMAP_APP_FIRST + 2147216315 
+  Source: YourTime 
+  Description: Subscript out of range
+  Call Stack: frmMain.UpdateAll() ------------------------------------------------------------------
+
+
+
+Subscript out of range 
+  Time='01.24.04 17:04:04' App='YourTime:1.2.52' Computer='KRIS' 
+  Method: frmMain.UpdateAll 
+  Number: 9 = &H9 = vbObjectError + 2147221513 = ERRMAP_APP_FIRST + 2147216315 
+  Source: YourTime 
+  Description: Subscript out of range
+  Call Stack: frmMain.UpdateAll() ------------------------------------------------------------------
+
+
+
+Subscript out of range 
+  Time='01.24.04 17:08:43' App='YourTime:1.2.53' Computer='KRIS' 
+  Method: frmMain.UpdateAll 
+  Number: 9 = &H9 = vbObjectError + 2147221513 = ERRMAP_APP_FIRST + 2147216315 
+  Source: YourTime 
+  Description: Subscript out of range
+  Call Stack: frmMain.UpdateAll() ------------------------------------------------------------------
+
+
+
